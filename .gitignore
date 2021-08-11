@@ -1,0 +1,46 @@
+# exclude file extensions
+*.webprj
+*.session
+*.bak
+*~
+*.tmp
+*.lst
+*.log
+*.aux
+*.bbl
+*.backup
+*.blg
+*.brf
+*.out
+_*.sas
+*.eml
+*0.sas
+.titles
+.mactitles
+.versions
+.xref
+.directory
+.copyright
+# special files
+tags
+Distfile
+HEADER
+COPYING
+Makefile
+fixdoc
+revlink
+.dir.*
+*-bugged.sas
+*-save.sas
+*-old.sas
+# exclude directories
+mtest/
+Private/
+RCS/
+RESTORE/
+in/
+old/
+eda/
+einar/
+pod/
+node_modules/
