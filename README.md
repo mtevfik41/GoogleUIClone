@@ -1,5 +1,7 @@
 # Google UI Clone
 
+- [Netlify](https://google-ui-clone.netlify.app/)
+
 Google UI Clone built with HTML,CSS and Sass.
 
 ## Built With
